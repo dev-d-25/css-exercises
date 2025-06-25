@@ -1,0 +1,17 @@
+/* todo 
+- **The first element**: a black background and white text
+- **The second element**: a yellow background
+- **Both elements**: a font size of 28px and a list of fonts containing `Helvetica` and `Times New Roman`, with `sans-serif` as a fallback 
+todo */
+.btn-1 {
+  background-color: hsl(0, 0%, 0%);
+  color: rgb(255, 255, 255);
+}
+
+.btn-2 {
+  background-color: #ffff00;
+}
+.btn {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
